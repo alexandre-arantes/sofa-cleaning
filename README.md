@@ -7,3 +7,5 @@ Landing Page - Sofa Cleaning
 . Java Script
 
 URL: https://elegant-hopper-bc653d.netlify.app/
+
+Obs: Landing Page desenvolvido para um processo seletivo
